@@ -164,25 +164,25 @@ slides:
        </ul>
        
 - title: 
-   slide-data: |
-   <h2 style="font-size: 40px;">Funcionamiento de los actuadores mecanicos</h2>
-   <p style="font-size: 20px;"> El funcionamiento de los actuadores mecánicos se basa en la transferencia y conversión de fuerzas a 
-       través de sistemas mecánicos. 
+  slide-data: |
+     <h2 style="font-size: 40px;">Funcionamiento de los actuadores mecanicos</h2>
+     <p style="font-size: 20px;"> El funcionamiento de los actuadores mecánicos se basa en la transferencia y conversión de fuerzas a 
+          través de sistemas mecánicos. 
           Esto puede implicar:
-   </p>
-   <ul>
-   <li><strong>Compresión o tensión</strong>: En actuadores basados en resortes, la energía se almacena mediante la compresión o 
+     </p>
+     <ul>
+     <li><strong>Compresión o tensión</strong>: En actuadores basados en resortes, la energía se almacena mediante la compresión o 
         extensión, y luego se libera para realizar un trabajo.
-   </li>
-   <li><strong>Rotación o deslizamiento</strong>: En sistemas de engranajes o levas, un eje rotativo genera un movimiento lineal o 
+     </li>
+     <li><strong>Rotación o deslizamiento</strong>: En sistemas de engranajes o levas, un eje rotativo genera un movimiento lineal o 
          controlado, transmitiendo fuerza a otras partes del sistema.</li>
-   <li><strong>Desplazamiento lineal</strong>: En husillos de bolas, el movimiento giratorio del eje se convierte en un desplazamiento 
-      lineal con gran precisión.
-   </li>
-   </ul>
-   <p style="font-size: 20px;"> El sistema mecánico actúa de manera pasiva o reactiva a fuerzas físicas que se le aplican, y algunos 
-      pueden almacenar energía (como los resortes) para liberarla en el momento adecuado.
-   </p>
+     <li><strong>Desplazamiento lineal</strong>: En husillos de bolas, el movimiento giratorio del eje se convierte en un desplazamiento 
+        lineal con gran precisión.
+     </li>
+     </ul>
+     <p style="font-size: 20px;"> El sistema mecánico actúa de manera pasiva o reactiva a fuerzas físicas que se le aplican, y algunos 
+        pueden almacenar energía (como los resortes) para liberarla en el momento adecuado.
+     </p>
    
 ---
 
