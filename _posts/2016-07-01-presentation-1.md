@@ -13,7 +13,7 @@ slides:
      GRADO:NOVENO SEMESTRE.
      
  - title: Slide 2
-   slide-data: This is second slide
+   slide-data: This iS ME
 
  - title: Slide 3
    slide-data: This is third slide
