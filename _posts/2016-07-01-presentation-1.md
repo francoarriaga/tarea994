@@ -86,7 +86,7 @@ slides:
  - title: 
    slide-data: |
        <h2 style="font-size: 40px;">Características de los actuadores electricos</h2>
-       <ul>
+       <ul style="font-size: 20px;">
        <li><strong>Precisión y control</strong>: Algunos modelos (como los servomotores y motores paso a paso) permiten un control 
            preciso sobre la posición y velocidad.
        </li>
