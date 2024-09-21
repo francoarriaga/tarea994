@@ -4,7 +4,7 @@ layout: post
 permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: INSTITUTO TECNOLOGICO DE CANCUN
+ - title: INSTITUTO TECNOLOGICO DE CANCUN 
    slide-data: |
 NOMBRE DEL ALUMNO: ARRIAGA PECH FRANCO MARTHELY.
 NOMBRE DEL DOCENTE: DR. ISMAES JIMENEZ SANCHEZ.
