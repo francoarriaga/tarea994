@@ -6,8 +6,8 @@ background: '#0a5'
 slides:
  - title: INSTITUTO TECNOLOGICO DE CANCUN 
    slide-data: |
-      <p style="font-size: 14px;">
-       NOMBRE DEL ALUMNO: ARRIAGA PECH FRANCO MARTHELY.   
+     <p style="font-size: 14px;">
+     NOMBRE DEL ALUMNO: ARRIAGA PECH FRANCO MARTHELY.   
      NOMBRE DEL DOCENTE: DR. ISMAES JIMÉNEZ SÁNCHEZ.  
      NOMBRE DE LA MATERIA: SISTEMAS PROGRAMABLES.  
      TAREA: “REALIZAR UNA PRESENTACIÓN DE LA UNIDAD 2, CON MARKDOWN, USANDO https://slides.webjeda.com/ EN SU PROPIO REPOSITORIO DE 
