@@ -75,7 +75,8 @@ slides:
      <li>Dependiendo del tipo, este movimiento puede ser rotacional (motor) o lineal (actuador lineal).
      </li>
      </ul>
-     <p style="font-size: 20px;">El control del actuador se realiza variando la magnitud de la corriente o la dirección, lo que cambia el 
+     <p style="font-size: 20px;">El control del actuador se realiza variando la magnitud de la corriente o la dirección, lo que cambia 
+          el 
         sentido y la velocidad 
         del movimiento.
      </p>
