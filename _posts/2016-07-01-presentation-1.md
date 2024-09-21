@@ -124,6 +124,43 @@ slides:
           ancho de pulso) para ajustes finos.
       </li>
       </ul>
+ - title: 
+    slide-data: |
+       <h2 style="font-size: 40px;">Tipos de actuadores mecanicos</h2>
+       <ul style="font-size: 20px;">
+       <li><strong>Resortes</strong>: Utilizan energía almacenada en la deformación de un resorte. Al liberar la energía, se genera 
+           movimiento.
+       <ul>
+       <li><em>Ejemplo</em>: Actuadores de retorno por resorte en válvulas.
+       </li>
+       </ul>
+       </li>
+       <li><strong>Engranajes</strong>: Usan un sistema de ruedas dentadas para transmitir o amplificar el movimiento mecánico.
+       <ul>
+       <li><em>Ejemplo</em>: Sistemas de dirección asistida.
+       </li>
+       </ul>
+       </li>
+       <li><strong>Levas y cigüeñales</strong>: Transforman el movimiento rotativo en lineal, o viceversa.
+       <ul>
+       <li><em>Ejemplo</em>: Motores de combustión interna (cigüeñales para mover pistones).
+       </li>
+       </ul>
+       </li>
+       <li><strong>Poleas y correas</strong>: Transmiten movimiento entre dos ejes a través de una cinta o correa.
+       <ul>
+       <li><em>Ejemplo</em>: Sistemas de transmisión en motores.
+       </li>
+       </ul>
+       </li>
+       <li><strong>Husillos de bolas</strong>: Utilizan rodamientos de bolas para convertir el movimiento rotatorio en lineal con alta 
+           precisión.
+       <ul>
+       <li><em>Ejemplo</em>: Máquinas CNC.
+       </li>
+       </ul>
+       </li>
+       </ul>
 
 ---
 
