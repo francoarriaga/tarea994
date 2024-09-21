@@ -170,7 +170,7 @@ slides:
           través de sistemas mecánicos. 
           Esto puede implicar:
      </p>
-     <ul>
+     <ul style="font-size: 20px;">
      <li><strong>Compresión o tensión</strong>: En actuadores basados en resortes, la energía se almacena mediante la compresión o 
         extensión, y luego se libera para realizar un trabajo.
      </li>
