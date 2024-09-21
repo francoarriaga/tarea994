@@ -4,7 +4,7 @@ layout: post
 permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: 
+ - title: INSTITUTO TECNOLOGICO DE CANCUN
    slide-data: This is first slide
      
  - title: Slide 2
