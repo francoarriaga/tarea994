@@ -5,7 +5,7 @@ permalink: /presentation-1/
 background: '#0a5'
 slides:
  - title: INSTITUTO TECNOLÓGICO DE CANCÚN
-   slide-data: |
+   slide-data:
      NOMBRE DEL ALUMNO: ARRIAGA PECH FRANCO MARTHELY.  
      NOMBRE DEL DOCENTE: DR. ISMAES JIMÉNEZ SÁNCHEZ.  
      NOMBRE DE LA MATERIA: SISTEMAS PROGRAMABLES.  
