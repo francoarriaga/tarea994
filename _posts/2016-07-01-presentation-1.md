@@ -1,10 +1,10 @@
 ---
-title: Presentation 1
+title: Unidad 2
 layout: post
 permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: Slide 1
+ - title: 
    slide-data: This is first slide
      
  - title: Slide 2
