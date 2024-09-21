@@ -187,7 +187,7 @@ slides:
  - title: 
    slide-data: |
        <h2 style="font-size: 40px;">Caracteristicas de los actuadores mecanicos</h2>
-       <ul>
+       <ul style="font-size: 20px;">
        <li><strong>Simples y robustos</strong>: Tienen diseños mecánicos que son generalmente más simples y duraderos que los actuadores 
             eléctricos o neumáticos.
        </li>
