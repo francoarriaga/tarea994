@@ -183,7 +183,28 @@ slides:
      <p style="font-size: 20px;"> El sistema mecánico actúa de manera pasiva o reactiva a fuerzas físicas que se le aplican, y algunos 
         pueden almacenar energía (como los resortes) para liberarla en el momento adecuado.
      </p>
-   
+     
+ - title: 
+   slide-data: |
+       <h2 style="font-size: 40px;">Caracteristicas de los actuadores mecanicos</h2>
+       <ul>
+       <li><strong>Simples y robustos</strong>: Tienen diseños mecánicos que son generalmente más simples y duraderos que los actuadores 
+            eléctricos o neumáticos.
+       </li>
+       <li><strong>Bajo mantenimiento</strong>: En muchas aplicaciones, requieren poco mantenimiento comparado con los actuadores 
+              hidráulicos o eléctricos, debido a la simplicidad de sus componentes.
+       </li>
+       <li><strong>Almacenamiento de energía</strong>: Actuadores como los resortes pueden almacenar energía y liberarla para generar 
+           movimiento en situaciones donde no hay suministro continuo de energía.
+       </li>
+       <li><strong>Precisión</strong>: Los actuadores mecánicos como los husillos de bolas ofrecen una alta precisión en movimientos 
+            lineales y en máquinas de control numérico (CNC).
+       </li>
+       <li><strong>Capacidad de carga</strong>: Algunos actuadores mecánicos, como los engranajes y husillos, pueden soportar cargas 
+          pesadas con mayor eficiencia que otros tipos de actuadores.
+       </li>
+       </ul>
+
 ---
 
 {% for slide in page.slides %}
