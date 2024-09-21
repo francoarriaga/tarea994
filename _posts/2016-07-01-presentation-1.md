@@ -163,8 +163,8 @@ slides:
        </li>
        </ul>
        
-- title: 
-  slide-data: |
+ - title: 
+   slide-data: |
      <h2 style="font-size: 40px;">Funcionamiento de los actuadores mecanicos</h2>
      <p style="font-size: 20px;"> El funcionamiento de los actuadores mecánicos se basa en la transferencia y conversión de fuerzas a 
           través de sistemas mecánicos. 
