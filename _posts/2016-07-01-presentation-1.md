@@ -79,7 +79,49 @@ slides:
         sentido y la velocidad 
         del movimiento.
      </p>
-  
+     
+  - title: 
+   slide-data: |
+       <h2 style="font-size: 40px;">Características de los actuadores electricos</h2>
+       <ul>
+       <li><strong>Precisión y control</strong>: Algunos modelos (como los servomotores y motores paso a paso) permiten un control 
+           preciso sobre la posición y velocidad.
+       </li>
+       <li><strong>Fuerza o par</strong>: Varia dependiendo del tamaño y tipo. Los actuadores rotativos se evalúan en términos de torque 
+             y los lineales en términos de fuerza de empuje.
+       </li>
+       <li><strong>Velocidad</strong>: Dependiendo del tipo de motor o actuador, algunos ofrecen velocidades muy altas (motores de 
+               corriente continua) y otros más controladas (paso a paso).
+       </li>
+       <li><strong>Eficiencia</strong>: Suelen tener un consumo eficiente de energía, aunque depende de la aplicación y el control.
+       </li>
+       <li><strong>Durabilidad</strong>: Son robustos y tienen una larga vida útil, con bajo mantenimiento.
+       </li>
+       </ul>
+ - title: 
+   slide-data: |
+      <h2 style="font-size: 40px;">Modo de comunicación de los actuadores electricos</h2>
+      <p  style="font-size: 20px;">Los actuadores eléctricos pueden integrarse en sistemas de control mediante diferentes métodos de 
+             comunicación:
+      </p>
+      <ul style="font-size: 20px;">
+      <li><strong>Señales analógicas</strong>: 0-10V o 4-20mA para controlar la velocidad, posición o fuerza. Es común en sistemas de 
+          control más simples.
+      </li>
+      <li><strong>Modbus</strong>: Un protocolo de comunicación industrial estándar que permite la comunicación en tiempo real entre el 
+                actuador y el sistema de control.
+      </li>
+      <li><strong>CAN Bus (Controller Area Network)</strong>: Muy usado en la industria automotriz y robótica, es un protocolo robusto 
+               para la transmisión de datos entre los actuadores y controladores.
+      </li>
+      <li><strong>Protocolo Ethernet/IP</strong>: Permite la comunicación a través de redes locales o industriales, facilitando la 
+              integración de actuadores en sistemas de automatización complejos.
+      </li>
+      <li><strong>Control por pulsos</strong>: Motores paso a paso y servomotores se controlan mediante señales PWM (modulación por 
+          ancho de pulso) para ajustes finos.
+      </li>
+      </ul>
+
 ---
 
 {% for slide in page.slides %}
