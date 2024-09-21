@@ -83,7 +83,7 @@ slides:
         del movimiento.
      </p>
      
-  - title: 
+ - title: 
    slide-data: |
        <h2 style="font-size: 40px;">Características de los actuadores electricos</h2>
        <ul>
