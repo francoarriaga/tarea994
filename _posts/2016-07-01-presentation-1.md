@@ -24,13 +24,16 @@ slides:
       basada en una señal de comando.
      </p>
    
- - title: ACTUADORES ELECTTRICOS
+ - title: ACTUADORES ELECTRICOS
    slide-data: |
       <h2>Tipos de Actuadores Eléctricos</h2>
       <ul>
       <li>
-      <strong>Actuadores rotativos</strong>: Convierte la energía eléctrica en un movimiento giratorio. Se utilizan en aplicaciones    
-      como válvulas o mecanismos que requieren movimiento circular.
+      <strong>
+              Actuadores rotativos
+      </strong>
+              : Convierte la energía eléctrica en un movimiento giratorio. Se utilizan en aplicaciones    
+              como válvulas o mecanismos que requieren movimiento circular.
       <ul>
       <li><em>Ejemplo</em>: Motores eléctricos (AC/DC).</li>
       </ul>
