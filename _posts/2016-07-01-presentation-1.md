@@ -65,8 +65,8 @@ slides:
 
  - title: 
    slide-data: |
-     <h2 style="font-size: 40px;>Funcionamiento de los actuadores electricos</h2>
-     <p>Los actuadores eléctricos convierten energía eléctrica en energía mecánica. El principio básico es:</p>
+     <h2 style="font-size: 40px;">Funcionamiento de los actuadores electricos</h2>
+     <p style="font-size: 20px;">Los actuadores eléctricos convierten energía eléctrica en energía mecánica. El principio básico es:</p>
      <ul style="font-size: 20px;">
      <li>Corriente eléctrica fluye a través de un componente conductor (bobina o motor).
      </li>
@@ -75,7 +75,8 @@ slides:
      <li>Dependiendo del tipo, este movimiento puede ser rotacional (motor) o lineal (actuador lineal).
      </li>
      </ul>
-     <p>El control del actuador se realiza variando la magnitud de la corriente o la dirección, lo que cambia el sentido y la velocidad 
+     <p style="font-size: 20px;">El control del actuador se realiza variando la magnitud de la corriente o la dirección, lo que cambia el 
+        sentido y la velocidad 
         del movimiento.
      </p>
   
