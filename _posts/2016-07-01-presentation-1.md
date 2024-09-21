@@ -26,8 +26,8 @@ slides:
    
  - title: ACTUADORES ELECTRICOS
    slide-data: |
-      <h2>Tipos de Actuadores Eléctricos</h2>
-      <ul>
+      <h3>Tipos de Actuadores Eléctricos</h3>
+      <ul style="font-size: 20px;">
       <li>
       <strong>
               Actuadores rotativos
