@@ -204,6 +204,28 @@ slides:
           pesadas con mayor eficiencia que otros tipos de actuadores.
        </li>
        </ul>
+ - title: 
+   slide-data: |
+      <h2 style="font-size: 40px;">Modo de comunicación de los actuadores mecanicos</h2>
+      <p style="font-size: 20px;"> A diferencia de los actuadores eléctricos, los actuadores mecánicos en sí mismos no tienen modos de 
+           comunicación directa, ya 
+           que son dispositivos pasivos. Sin embargo, pueden ser integrados en sistemas de control a través de sensores o controles 
+            adicionales. Algunos modos de integración son:
+      </p>
+      <ul style="font-size: 20px;">
+      <li><strong>Señales de posición</strong>: Sensores de posición (como encoders o potenciómetros) se usan para medir la posición del 
+            actuador y enviar datos al sistema de control.
+      </li>
+      <li><strong>Sensores de fuerza o presión</strong>: Detectan la cantidad de fuerza que se está aplicando en un sistema mecánico 
+           para ajustar el movimiento o la acción.
+      </li>
+      <li><strong>Acoplamiento con actuadores eléctricos</strong>: En sistemas híbridos, el actuador mecánico puede estar conectado a un 
+        actuador eléctrico que envía señales de control al sistema general.
+      </li>
+      <li><strong>Control manual</strong>: En algunos casos, los actuadores mecánicos pueden ser operados manualmente mediante palancas 
+            o pedales.
+      </li>
+      </ul>
 
 ---
 
