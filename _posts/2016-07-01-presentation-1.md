@@ -6,14 +6,14 @@ background: '#0a5'
 slides:
  - title: INSTITUTO TECNOLOGICO DE CANCUN 
    slide-data: |
-     <ol style="font-size: 30px;">
+     <ul style="font-size: 30px;">
        <li>NOMBRE DEL ALUMNO: ARRIAGA PECH FRANCO MARTHELY.</li>
        <li>NOMBRE DEL DOCENTE: DR. ISMAES JIMÉNEZ SÁNCHEZ.</li>
        <li>NOMBRE DE LA MATERIA: SISTEMAS PROGRAMABLES.</li>
        <li>TAREA: “REALIZAR UNA PRESENTACIÓN DE LA UNIDAD 2, CON MARKDOWN, USANDO https://slides.webjeda.com/ EN SU PROPIO REPOSITORIO DE            SLIDES”.</li>
        <li>NOMBRE DE LA CARRERA: INGENIERÍA EN SISTEMAS COMPUTACIONALES.</li>
        <li>GRADO: NOVENO SEMESTRE.</li>
-     </ol>
+     </ul>
      
  - title: Slide 2
    slide-data: This iS ME
