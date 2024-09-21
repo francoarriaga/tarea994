@@ -14,9 +14,18 @@ slides:
        <li>NOMBRE DE LA CARRERA: INGENIERÍA EN SISTEMAS COMPUTACIONALES.</li>
        <li>GRADO: NOVENO SEMESTRE.</li>
      </ul>
-     
- - title: Slide 2
-   slide-data: This iS ME
+
+ - title: ACTUADORES
+   slide-data: |
+     <h2>¿QUÉ SON LOS ACTUADORES?</h2>
+     <p style="font-size: 20px;"> 
+      Los actuadores son dispositivos que convierten una señal de control (normalmente eléctrica, neumática o hidráulica) en un        
+      movimiento físico. Son esenciales en sistemas automáticos o controlados a distancia, ya que permiten ejecutar una acción mecánica 
+      basada en una señal de comando.
+     </p>
+   
+ - title: ACTUADORES ELECTTRICOS
+   slide-data: 
 
  - title: Slide 3
    slide-data: This is third slide
