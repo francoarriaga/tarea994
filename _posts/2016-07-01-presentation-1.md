@@ -24,9 +24,9 @@ slides:
       basada en una señal de comando.
      </p>
    
- - title: ACTUADORES ELECTRICOS
+ - title: 
    slide-data: |
-      <h3>Tipos de Actuadores Eléctricos</h3>
+      <h3 style="font-size: 40px;" >Tipos de Actuadores Eléctricos</h3>
       <ul style="font-size: 20px;">
       <li>
       <strong>
