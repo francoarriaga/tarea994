@@ -300,25 +300,25 @@ slides:
        <ul style="font-size: 20px;">
        <li><strong>Señales de posición</strong>: Se usan sensores de posición como potenciómetros, encoders o transductores de 
             desplazamiento lineal para monitorear la posición del pistón en un cilindro.
-   </li>
+       </li>
        <li><strong>Sensores de presión</strong>: Detectan la presión del fluido hidráulico para controlar la fuerza aplicada y ajustar 
           el rendimiento del sistema.
-   </li>
+       </li>
        <li><strong>Control de flujo</strong>: Válvulas de control proporcionan ajustes precisos al flujo del fluido, regulando la 
           velocidad y la fuerza del actuador.
-   </li>
+       </li>
        <li><strong>Protocolo CAN Bus</strong>: En sistemas industriales más avanzados, los actuadores hidráulicos pueden estar 
           conectados a una red CAN Bus (Controller Area Network), que permite la comunicación con un controlador o PLC (Controlador 
            Lógico Programable).
-   </li>
+       </li>
        <li><strong>Sistemas de retroalimentación</strong>: Algunos actuadores hidráulicos están equipados con sistemas de 
            retroalimentación de bucle cerrado, donde la información sobre la posición y presión del actuador se envía continuamente al 
           controlador para ajustar su funcionamiento en tiempo real.
-   </li>
+        </li>
        <li><strong>Integración con sistemas electrónicos</strong>: Los actuadores hidráulicos se combinan con sistemas electrónicos para 
          proporcionar automatización avanzada. Esto incluye la posibilidad de integrarlos en sistemas controlados por PLCs o SCADA, 
            donde se puede monitorear y ajustar el funcionamiento del actuador remotamente.
-   </li>
+       </li>
        </ul>
 
 ---
