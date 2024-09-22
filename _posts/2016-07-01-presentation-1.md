@@ -226,6 +226,28 @@ slides:
             o pedales.
       </li>
       </ul>
+ - title: 
+   slide-data: |
+      <h2 style="font-size: 40px;">Tipos de actuadores hidraulicos</h2>
+      <p style="font-size: 20px;">Los actuadores hidráulicos utilizan un fluido bajo presión para generar movimiento mecánico. Los 
+          principales tipos son:
+      </p>
+      <ul style="font-size: 20px;">
+      <li><strong>Cilindros hidráulicos (actuadores lineales)</strong>: Convierte la energía hidráulica en movimiento lineal. Se 
+            utilizan en aplicaciones donde se requiere empujar o tirar cargas pesadas.
+      <ul>
+      <li><em>Ejemplo</em>: Maquinaria de construcción (excavadoras, grúas).
+      </li>
+      </ul>
+      </li>
+      <li><strong>Motores hidráulicos (actuadores rotativos)</strong>: Convierte la energía hidráulica en movimiento rotatorio. Se 
+             emplean para rotar componentes en sistemas de alto torque.
+      <ul>
+      <li><em>Ejemplo</em>: Sistemas de dirección asistida o maquinaria pesada que necesita rotar componentes.
+      </li>
+      </ul>
+      </li>
+      </ul>
 
 ---
 
