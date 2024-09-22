@@ -28,6 +28,7 @@ slides:
    
  - title: 
    slide-data: |
+      <h2 style="font-size: 60px;"> Actuadores Eléctricos</h2>
       <h3 style="font-size: 40px;" >Tipos de Actuadores Eléctricos</h3>
       <ul style="font-size: 20px;">
       <li>
