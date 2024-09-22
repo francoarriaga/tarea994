@@ -273,7 +273,7 @@ slides:
        <ul style="font-size: 20px;">
        <li><strong>Alta fuerza y torque</strong>: Los actuadores hidráulicos pueden generar mucha más fuerza y torque que los actuadores 
            eléctricos o neumáticos del mismo tamaño.
-   </li>
+       </li>
        <li><strong>Control preciso de velocidad y fuerza</strong>: Mediante válvulas reguladoras y otros controles, es posible ajustar 
             con precisión la velocidad y la fuerza que ejerce el actuador.
        </li>
