@@ -128,7 +128,8 @@ slides:
       
  - title: 
    slide-data: |
-       <h2 style="font-size: 40px;">Tipos de los actuadores mecanicos</h2>
+       <h2 style="font-size: 60px;"> Actuadores Mecánicos</h2>
+       <h2 style="font-size: 40px;">Tipos de los actuadores mecánicos</h2>
        <ul style="font-size: 20px;">
        <li><strong>Resortes</strong>: Utilizan energía almacenada en la deformación de un resorte. Al liberar la energía, se genera 
            movimiento.
@@ -229,7 +230,8 @@ slides:
       </ul>
  - title: 
    slide-data: |
-      <h2 style="font-size: 40px;">Tipos de los actuadores hidraulicos</h2>
+      <h2 style="font-size: 60px;"> Actuadores Hidráulicos</h2>
+      <h2 style="font-size: 40px;">Tipos de los actuadores hidráulicos</h2>
       <p style="font-size: 20px;">Los actuadores hidráulicos utilizan un fluido bajo presión para generar movimiento mecánico. Los 
           principales tipos son:
       </p>
