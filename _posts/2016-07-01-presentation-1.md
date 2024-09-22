@@ -290,7 +290,7 @@ slides:
            libres de fugas y contaminantes, además de controlar la temperatura del fluido.
        </li>
        </ul>
- - title: 
+  - title: 
     slide-data: |
        <h2 style="font-size: 40px;">Modo de comunicación de los actuadores hidraulicos</h2>
        <p style="font-size: 20px;"> Aunque los actuadores hidráulicos en sí mismos no tienen capacidad de comunicación, se utilizan 
