@@ -228,7 +228,7 @@ slides:
       </ul>
  - title: 
    slide-data: |
-      <h2 style="font-size: 40px;">Tipos de actuadores hidraulicos</h2>
+      <h2 style="font-size: 40px;">Tipos de los actuadores hidraulicos</h2>
       <p style="font-size: 20px;">Los actuadores hidráulicos utilizan un fluido bajo presión para generar movimiento mecánico. Los 
           principales tipos son:
       </p>
@@ -248,6 +248,48 @@ slides:
       </ul>
       </li>
       </ul>
+ - title: 
+   slide-data: |
+      <h2 style="font-size: 40px;">Funcionamiento de los actuadores hidraulicos</h2>
+      <p style="font-size: 20px;">El funcionamiento de los actuadores hidráulicos se basa en la Ley de Pascal, que establece que la 
+            presión aplicada a un fluido 
+              en un sistema cerrado se transmite de manera uniforme en todas las direcciones.
+      </p>
+      <p style="font-size: 20px;">Proceso básico: </p>
+      <ul style="font-size: 20px;">
+      <li><strong>Generación de presión</strong>: Una bomba hidráulica genera presión sobre un fluido (generalmente aceite), que circula 
+          a través de un sistema de tuberías.
+      </li>
+      <li><strong>Movimiento</strong>: Este fluido a alta presión empuja un pistón dentro de un cilindro o un mecanismo rotativo en el 
+        caso de los motores, generando movimiento.
+      </li>
+      <li><strong>Control</strong>: Válvulas y reguladores ajustan la cantidad de fluido y la presión, controlando la velocidad y fuerza 
+          del actuador.
+      </li>
+      </ul>
+ - title: 
+   slide-data: |
+       <h2 style="font-size: 40px;">Caracteristicas de los actuadores hidraulicos</h2>
+       <ul style="font-size: 20px;">
+       <li><strong>Alta fuerza y torque</strong>: Los actuadores hidráulicos pueden generar mucha más fuerza y torque que los actuadores 
+           eléctricos o neumáticos del mismo tamaño.
+   </li>
+       <li><strong>Control preciso de velocidad y fuerza</strong>: Mediante válvulas reguladoras y otros controles, es posible ajustar 
+            con precisión la velocidad y la fuerza que ejerce el actuador.
+       </li>
+       <li><strong>Capacidad de trabajar con grandes cargas</strong>: Los sistemas hidráulicos son ideales para mover o levantar cargas 
+            pesadas. Por ejemplo, se utilizan en maquinaria industrial, equipos de construcción y aeronaves.
+       </li>
+       <li><strong>Compactos y potentes</strong>: Proporcionan una gran cantidad de fuerza en un espacio relativamente pequeño, lo que 
+           los hace útiles en espacios reducidos.
+       </li>
+       <li><strong>Robustos</strong>: Tienen una buena resistencia al desgaste y una larga vida útil, incluso en condiciones difíciles o 
+         entornos de trabajo extremos.
+       </li>
+       <li><strong>Requieren mantenimiento regular</strong>: Debido al uso de fluidos, es importante mantener los sistemas hidráulicos 
+           libres de fugas y contaminantes, además de controlar la temperatura del fluido.
+       </li>
+       </ul>
 
 ---
 
