@@ -290,6 +290,36 @@ slides:
            libres de fugas y contaminantes, además de controlar la temperatura del fluido.
        </li>
        </ul>
+ - title: 
+    slide-data: |
+       <h2 style="font-size: 40px;">Modo de comunicación de los actuadores hidraulicos</h2>
+       <p style="font-size: 20px;"> Aunque los actuadores hidráulicos en sí mismos no tienen capacidad de comunicación, se utilizan 
+            junto con sistemas de control 
+             que permiten monitorear y ajustar su funcionamiento. Los modos más comunes son:
+       </p>
+       <ul style="font-size: 20px;">
+       <li><strong>Señales de posición</strong>: Se usan sensores de posición como potenciómetros, encoders o transductores de 
+            desplazamiento lineal para monitorear la posición del pistón en un cilindro.
+   </li>
+       <li><strong>Sensores de presión</strong>: Detectan la presión del fluido hidráulico para controlar la fuerza aplicada y ajustar 
+          el rendimiento del sistema.
+   </li>
+       <li><strong>Control de flujo</strong>: Válvulas de control proporcionan ajustes precisos al flujo del fluido, regulando la 
+          velocidad y la fuerza del actuador.
+   </li>
+       <li><strong>Protocolo CAN Bus</strong>: En sistemas industriales más avanzados, los actuadores hidráulicos pueden estar 
+          conectados a una red CAN Bus (Controller Area Network), que permite la comunicación con un controlador o PLC (Controlador 
+           Lógico Programable).
+   </li>
+       <li><strong>Sistemas de retroalimentación</strong>: Algunos actuadores hidráulicos están equipados con sistemas de 
+           retroalimentación de bucle cerrado, donde la información sobre la posición y presión del actuador se envía continuamente al 
+          controlador para ajustar su funcionamiento en tiempo real.
+   </li>
+       <li><strong>Integración con sistemas electrónicos</strong>: Los actuadores hidráulicos se combinan con sistemas electrónicos para 
+         proporcionar automatización avanzada. Esto incluye la posibilidad de integrarlos en sistemas controlados por PLCs o SCADA, 
+           donde se puede monitorear y ajustar el funcionamiento del actuador remotamente.
+   </li>
+       </ul>
 
 ---
 
