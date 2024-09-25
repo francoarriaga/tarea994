@@ -8,7 +8,7 @@ slides:
    slide-data: |
      <ul style="font-size: 30px;">
        <li>NOMBRE DEL ALUMNO: ARRIAGA PECH FRANCO MARTHELY.</li>
-       <li>NOMBRE DEL DOCENTE: DR. ISMAEL JIMÉNEZ SÁNCHEZ.</li>
+       <li>NOMBRE DEL DOCENTE: DR. ISMAEL JIMÉNEZ SÁNCHEZ.</li> 
        <li>NOMBRE DE LA MATERIA: SISTEMAS PROGRAMABLES.</li>
        <li>TAREA: “REALIZAR UNA PRESENTACIÓN DE LA UNIDAD 2, CON MARKDOWN, USANDO https://slides.webjeda.com/ EN SU PROPIO REPOSITORIO 
             DE SLIDES”.
