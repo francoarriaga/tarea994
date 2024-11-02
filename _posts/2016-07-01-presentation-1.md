@@ -18,6 +18,7 @@ slides:
      </ul>
 
  - title: ACTUADORES
+   background: "../images/fondoverde.jpg"
    slide-data: |
      <h2>¿QUÉ SON LOS ACTUADORES?</h2>
      <p style="font-size: 20px;"> 
