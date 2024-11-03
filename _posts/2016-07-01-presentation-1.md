@@ -1,8 +1,8 @@
- ---
+---
 title: Unidad 2
 layout: post
 permalink: /presentation-1/
-background: ‘#0a5’ 
+background: '#0a5'
 slides:
  - title: INSTITUTO TECNOLOGICO DE CANCUN 
    slide-data: |
@@ -18,7 +18,6 @@ slides:
      </ul>
 
  - title: ACTUADORES
-   background: "../images/fondoverde.jpg"
    slide-data: |
      <h2>¿QUÉ SON LOS ACTUADORES?</h2>
      <p style="font-size: 20px;"> 
@@ -26,10 +25,8 @@ slides:
       movimiento físico. Son esenciales en sistemas automáticos o controlados a distancia, ya que permiten ejecutar una acción mecánica 
       basada en una señal de comando.
      </p>
-     
    
- - title:
-   background: "../images/fondoverde.jpg"
+ - title: 
    slide-data: |
       <h2 style="font-size: 60px;"> Actuadores Eléctricos</h2>
       <h3 style="font-size: 40px;" >Tipos de Actuadores Eléctricos</h3>
@@ -69,8 +66,7 @@ slides:
 
 
 
- - title:
-   background: "../images/fondoverde.jpg"
+ - title: 
    slide-data: |
      <h2 style="font-size: 40px;">Funcionamiento de los actuadores electricos</h2>
      <p style="font-size: 20px;">Los actuadores eléctricos convierten energía eléctrica en energía mecánica. El principio básico es:</p>
@@ -88,8 +84,7 @@ slides:
         del movimiento.
      </p>
      
- - title:
-   background: "../images/fondoverde.jpg"
+ - title: 
    slide-data: |
        <h2 style="font-size: 40px;">Características de los actuadores electricos</h2>
        <ul style="font-size: 20px;">
@@ -107,8 +102,7 @@ slides:
        <li><strong>Durabilidad</strong>: Son robustos y tienen una larga vida útil, con bajo mantenimiento.
        </li>
        </ul>
- - title:
-   background: "../images/fondoverde.jpg"
+ - title: 
    slide-data: |
       <h2 style="font-size: 40px;">Modo de comunicación de los actuadores electricos</h2>
       <p  style="font-size: 20px;">Los actuadores eléctricos pueden integrarse en sistemas de control mediante diferentes métodos de 
@@ -132,8 +126,7 @@ slides:
       </li>
       </ul>
       
- - title:
-   background: "../images/fondolineas.png"
+ - title: 
    slide-data: |
        <h2 style="font-size: 60px;"> Actuadores Mecánicos</h2>
        <h2 style="font-size: 40px;">Tipos de los actuadores mecánicos</h2>
