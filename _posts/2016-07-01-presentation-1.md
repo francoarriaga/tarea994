@@ -131,7 +131,8 @@ slides:
       </li>
       </ul>
       
- - title: 
+ - title:
+   background: "../images/fondolineas.png"
    slide-data: |
        <h2 style="font-size: 60px;"> Actuadores Mecánicos</h2>
        <h2 style="font-size: 40px;">Tipos de los actuadores mecánicos</h2>
