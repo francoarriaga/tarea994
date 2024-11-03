@@ -26,7 +26,7 @@ slides:
       movimiento físico. Son esenciales en sistemas automáticos o controlados a distancia, ya que permiten ejecutar una acción mecánica 
       basada en una señal de comando.
      </p>
-     <p>![Portada](https://github.com/francoarriaga/tarea994/blob/master/images/aelectrico1.png) </p>
+     
    
  - title:
    background: "../images/fondoverde.jpg"
