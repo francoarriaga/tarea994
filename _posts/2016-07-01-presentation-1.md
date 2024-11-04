@@ -26,7 +26,7 @@ slides:
       movimiento físico. Son esenciales en sistemas automáticos o controlados a distancia, ya que permiten ejecutar una acción mecánica 
       basada en una señal de comando.
      </p>
-     <img src="../images/aelectrico1.png" alt="Actuador Rotativo" style="width: 30px; margin: auto;">
+     <img src="../images/aelectrico1.png" alt="Actuador Rotativo" style="width: 60px; margin: auto;">
 
      
  - title: 
