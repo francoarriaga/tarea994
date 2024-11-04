@@ -19,7 +19,7 @@ slides:
 
  
  - title: ACTUADORES
-  -background: "../images/fondolineas.png" 
+   -background: "../images/fondolineas.png" 
    slide-data: |
      <h2>¿QUÉ SON LOS ACTUADORES?</h2>
      <p style="font-size: 20px;"> 
