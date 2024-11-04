@@ -30,44 +30,57 @@ slides:
      <img src="../images/aelectrico1.png" alt="Actuador Rotativo" style="width: 300px; margin: auto;">
 
      
- - title:
-   background: "../images/fondoverde.jpg" 
-   slide-data: |
-      <h2 style="font-size: 60px;"> Actuadores Eléctricos</h2>
-      <h3 style="font-size: 40px;" >Tipos de Actuadores Eléctricos</h3>
+ ---
+title:
+background: "../images/fondoverde.jpg" 
+---
+
+<h2 style="font-size: 60px;"> Actuadores Eléctricos</h2>
+<h3 style="font-size: 40px;">Tipos de Actuadores Eléctricos</h3>
+
+<div style="display: flex; align-items: flex-start;">
+
+   <!-- Contenedor para el contenido de la lista -->
+   <div style="flex: 1;">
       <ul style="font-size: 20px;">
-      <li>
-      <strong>
-              Actuadores rotativos
-      </strong>
-              : Convierte la energía eléctrica en un movimiento giratorio. Se utilizan en aplicaciones    
-              como válvulas o mecanismos que requieren movimiento circular.
-      <ul>
-      <li><em>Ejemplo</em>: Motores eléctricos (AC/DC).</li>
+         <li>
+            <strong>Actuadores rotativos</strong>: Convierte la energía eléctrica en un movimiento giratorio. Se utilizan en aplicaciones 
+            como válvulas o mecanismos que requieren movimiento circular.
+            <ul>
+               <li><em>Ejemplo</em>: Motores eléctricos (AC/DC).</li>
+            </ul>
+         </li>
+         <li>
+            <strong>Actuadores lineales</strong>: Transforma la energía eléctrica en movimiento lineal, usados en sistemas que requieren 
+            desplazamientos en línea recta.
+            <ul>
+               <li><em>Ejemplo</em>: Husillos de bolas, actuadores de pistón.</li>
+            </ul>
+         </li>
+         <li>
+            <strong>Actuadores paso a paso</strong>: Permiten un control preciso de la posición mediante impulsos eléctricos. Se usan en 
+            aplicaciones que requieren movimientos discretos y controlables.
+            <ul>
+               <li><em>Ejemplo</em>: Motores paso a paso.</li>
+            </ul>
+         </li>
+         <li>
+            <strong>Servomotores</strong>: Combinan un motor eléctrico con un sistema de retroalimentación para controlar la posición, 
+            velocidad o par, usados en robótica y automatización.
+            <ul>
+               <li><em>Ejemplo</em>: Servo de alta precisión en brazos robóticos.</li>
+            </ul>
+         </li>
       </ul>
-      </li>
-      <li>
-      <strong>Actuadores lineales</strong>: Transforma la energía eléctrica en movimiento lineal, usados en sistemas que requieren 
-      desplazamientos en línea recta.
-      <ul>
-      <li><em>Ejemplo</em>: Husillos de bolas, actuadores de pistón.</li>
-      </ul>
-      </li>
-      <li>
-      <strong>Actuadores paso a paso</strong>: Permiten un control preciso de la posición mediante impulsos eléctricos. Se usan en 
-      aplicaciones que requieren movimientos discretos y controlables.
-      <ul>
-      <li><em>Ejemplo</em>: Motores paso a paso.</li>
-      </ul>
-      </li>
-      <li>
-      <strong>Servomotores</strong>: Combinan un motor eléctrico con un sistema de retroalimentación para controlar la posición, 
-      velocidad o par, usados en robótica y automatización.
-      <ul>
-      <li><em>Ejemplo</em>: Servo de alta precisión en brazos robóticos.</li>
-      </ul>
-      </li>
-      </ul>
+   </div>
+
+   <!-- Contenedor para la imagen -->
+   <div style="flex: 0 0 300px; margin-left: 20px;">
+      <img src="../images/actuador.png" alt="Imagen de actuador" style="width: 100%; border-radius: 8px;">
+   </div>
+
+</div>
+
 
 
 
