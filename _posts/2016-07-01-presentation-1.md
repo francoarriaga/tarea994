@@ -18,7 +18,7 @@ slides:
      </ul>
 
  
-- title: ACTUADORES
+ - title: ACTUADORES
    slide-data: |
      <h2>¿QUÉ SON LOS ACTUADORES?</h2>
      <p style="font-size: 20px;"> 
