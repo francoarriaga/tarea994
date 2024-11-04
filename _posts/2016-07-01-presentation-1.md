@@ -30,10 +30,10 @@ slides:
      <img src="../images/aelectrico1.png" alt="Actuador Rotativo" style="width: 300px; margin: auto;">
 
      
-  -title:
-   background: "../images/fondoverde.jpg" 
-   slide-data: |
-     <h2 style="font-size: 60px;"> Actuadores Eléctricos</h2>
+ -title:
+  background: "../images/fondoverde.jpg" 
+  slide-data: |
+  <h2 style="font-size: 60px;"> Actuadores Eléctricos</h2>
      <h3 style="font-size: 40px;">Tipos de Actuadores Eléctricos</h3>
      <div style="display: flex; align-items: flex-start;">
      <!-- Contenedor para el contenido de la lista -->
