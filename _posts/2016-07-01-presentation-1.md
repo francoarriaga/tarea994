@@ -14,7 +14,7 @@ slides:
             DE SLIDES”.
        </li>
        <li>NOMBRE DE LA CARRERA: INGENIERÍA EN SISTEMAS COMPUTACIONALES.</li>
-       <li>GRADO: NOVENO SEMESTRE.</li>
+       <li>GRADO: NOVENO SEMESTRE.</li> 
      </ul>
 
  
