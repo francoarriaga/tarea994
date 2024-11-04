@@ -121,31 +121,35 @@ slides:
        <li><strong>Durabilidad</strong>: Son robustos y tienen una larga vida útil, con bajo mantenimiento.
        </li>
        </ul>
- - title:
-   background: "../images/fondoverde.jpg"
-   slide-data: |
-      <h2 style="font-size: 40px;">Modo de comunicación de los actuadores electricos</h2>
-      <p  style="font-size: 20px;">Los actuadores eléctricos pueden integrarse en sistemas de control mediante diferentes métodos de 
-             comunicación:
-      </p>
-      <ul style="font-size: 20px;">
-      <li><strong>Señales analógicas</strong>: 0-10V o 4-20mA para controlar la velocidad, posición o fuerza. Es común en sistemas de 
-          control más simples.
-      </li>
-      <li><strong>Modbus</strong>: Un protocolo de comunicación industrial estándar que permite la comunicación en tiempo real entre el 
-                actuador y el sistema de control.
-      </li>
-      <li><strong>CAN Bus (Controller Area Network)</strong>: Muy usado en la industria automotriz y robótica, es un protocolo robusto 
-               para la transmisión de datos entre los actuadores y controladores.
-      </li>
-      <li><strong>Protocolo Ethernet/IP</strong>: Permite la comunicación a través de redes locales o industriales, facilitando la 
-              integración de actuadores en sistemas de automatización complejos.
-      </li>
-      <li><strong>Control por pulsos</strong>: Motores paso a paso y servomotores se controlan mediante señales PWM (modulación por 
-          ancho de pulso) para ajustes finos.
-      </li>
-      </ul>
-      
+
+   - title:
+     background: "../images/fondoverde.jpg"
+     slide-data: |
+     <div style="display: flex; align-items: flex-start;">
+      <div style="flex: 1;">
+        <h2 style="font-size: 40px;">Modo de comunicación de los actuadores eléctricos</h2>
+        <p style="font-size: 20px;">
+          Los actuadores eléctricos pueden integrarse en sistemas de control mediante diferentes métodos de 
+          comunicación:
+        </p>
+        <ul style="font-size: 20px;">
+          <li><strong>Señales analógicas</strong>: 0-10V o 4-20mA para controlar la velocidad, posición o fuerza. Es común en sistemas de control más simples.</li>
+          <li><strong>Modbus</strong>: Un protocolo de comunicación industrial estándar que permite la comunicación en tiempo real entre el actuador y el sistema de control.</li>
+          <li><strong>CAN Bus (Controller Area Network)</strong>: Muy usado en la industria automotriz y robótica, es un protocolo robusto para la transmisión de datos entre los      
+            actuadores y controladores.</li>
+          <li><strong>Protocolo Ethernet/IP</strong>: Permite la comunicación a través de redes locales o industriales, facilitando la integración de actuadores en sistemas de 
+           automatización complejos.</li>
+          <li><strong>Control por pulsos</strong>: Motores paso a paso y servomotores se controlan mediante señales PWM (modulación por ancho de pulso) para ajustes finos.</li>
+        </ul>
+      </div>
+      <div style="flex: 0.4; text-align: right;">
+        <img src="../images/senalanalogica.png" alt="Actuador eléctrico" style="width: 100%; border-radius: 10px;"/>
+      </div>
+      </div>
+
+
+
+       
  - title: 
    slide-data: |
        <h2 style="font-size: 60px;"> Actuadores Mecánicos</h2>
