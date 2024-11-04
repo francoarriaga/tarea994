@@ -153,7 +153,7 @@ slides:
  - title:
    background: "../images/fondogris.jpg" 
    slide-data: |
-       <h2 style="font-size: 60px;"> Actuadores Mecánicos</h2>
+       <h2 style="font-size: 60px; color:black"> Actuadores Mecánicos</h2>
        <h2 style="font-size: 40px;">Tipos de los actuadores mecánicos</h2>
        <ul style="font-size: 20px;">
        <li><strong>Resortes</strong>: Utilizan energía almacenada en la deformación de un resorte. Al liberar la energía, se genera 
