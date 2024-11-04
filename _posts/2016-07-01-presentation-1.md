@@ -99,7 +99,7 @@ slides:
      </p>
      <!-- Contenedor para la imagen -->
       <div style="flex: 0 0 300px; margin-left: 20px;">
-         <img src="../images/campomagnetico.png" alt="Imagen de actuador" style="width: 100%; border-radius: 8px;">
+         <img src="../images/campomagnetico.jpg" alt="Imagen de actuador" style="width: 100%; border-radius: 8px;">
       </div>
       
  - title:
