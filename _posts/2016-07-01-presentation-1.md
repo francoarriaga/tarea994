@@ -154,8 +154,8 @@ slides:
    background: "../images/fondogris.jpg" 
    slide-data: |
        <h2 style="font-size: 60px; color:black"> Actuadores Mecánicos</h2>
-       <h2 style="font-size: 40px;">Tipos de los actuadores mecánicos</h2>
-       <ul style="font-size: 20px;">
+       <h2 style="font-size: 40px; color:black">Tipos de los actuadores mecánicos</h2>
+       <ul style="font-size: 20px; color:black">
        <li><strong>Resortes</strong>: Utilizan energía almacenada en la deformación de un resorte. Al liberar la energía, se genera 
            movimiento.
        <ul>
@@ -191,14 +191,15 @@ slides:
        </ul>
        <img src="../images/actuadormecanico.jpg" alt="Actuador Mecanico" style="width: 300px; margin: auto;">
        
- - title: 
+ - title:
+   background: "../images/fondogris.jpg"
    slide-data: |
-     <h2 style="font-size: 40px;">Funcionamiento de los actuadores mecanicos</h2>
-     <p style="font-size: 20px;"> El funcionamiento de los actuadores mecánicos se basa en la transferencia y conversión de fuerzas a 
+     <h2 style="font-size: 40px;color:black">Funcionamiento de los actuadores mecanicos</h2>
+     <p style="font-size: 20px;color:black"> El funcionamiento de los actuadores mecánicos se basa en la transferencia y conversión de fuerzas a 
           través de sistemas mecánicos. 
           Esto puede implicar:
      </p>
-     <ul style="font-size: 20px;">
+     <ul style="font-size: 20px;color:black">
      <li><strong>Compresión o tensión</strong>: En actuadores basados en resortes, la energía se almacena mediante la compresión o 
         extensión, y luego se libera para realizar un trabajo.
      </li>
@@ -208,14 +209,15 @@ slides:
         lineal con gran precisión.
      </li>
      </ul>
-     <p style="font-size: 20px;"> El sistema mecánico actúa de manera pasiva o reactiva a fuerzas físicas que se le aplican, y algunos 
+     <p style="font-size: 20px;color:black"> El sistema mecánico actúa de manera pasiva o reactiva a fuerzas físicas que se le aplican, y algunos 
         pueden almacenar energía (como los resortes) para liberarla en el momento adecuado.
      </p>
      
- - title: 
+ - title:
+   background: "../images/fondogris.jpg"
    slide-data: |
-       <h2 style="font-size: 40px;">Caracteristicas de los actuadores mecanicos</h2>
-       <ul style="font-size: 20px;">
+       <h2 style="font-size: 40px;color:black">Caracteristicas de los actuadores mecanicos</h2>
+       <ul style="font-size: 20px;color:black">
        <li><strong>Simples y robustos</strong>: Tienen diseños mecánicos que son generalmente más simples y duraderos que los actuadores 
             eléctricos o neumáticos.
        </li>
@@ -232,15 +234,16 @@ slides:
           pesadas con mayor eficiencia que otros tipos de actuadores.
        </li>
        </ul>
- - title: 
+ - title:
+   background: "../images/fondogris.jpg"
    slide-data: |
-      <h2 style="font-size: 40px;">Modo de comunicación de los actuadores mecanicos</h2>
-      <p style="font-size: 20px;"> A diferencia de los actuadores eléctricos, los actuadores mecánicos en sí mismos no tienen modos de 
+      <h2 style="font-size: 40px;color:black">Modo de comunicación de los actuadores mecanicos</h2>
+      <p style="font-size: 20px;color:black"> A diferencia de los actuadores eléctricos, los actuadores mecánicos en sí mismos no tienen modos de 
            comunicación directa, ya 
            que son dispositivos pasivos. Sin embargo, pueden ser integrados en sistemas de control a través de sensores o controles 
             adicionales. Algunos modos de integración son:
       </p>
-      <ul style="font-size: 20px;">
+      <ul style="font-size: 20px;color:black">
       <li><strong>Señales de posición</strong>: Sensores de posición (como encoders o potenciómetros) se usan para medir la posición del 
             actuador y enviar datos al sistema de control.
       </li>
