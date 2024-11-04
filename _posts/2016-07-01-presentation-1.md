@@ -122,9 +122,9 @@ slides:
        </li>
        </ul>
 
-   - title:
-     background: "../images/fondoverde.jpg"
-     slide-data: |
+- title:
+  background: "../images/fondoverde.jpg"
+  slide-data: |
      <div style="display: flex; align-items: flex-start;">
       <div style="flex: 1;">
         <h2 style="font-size: 40px;">Modo de comunicación de los actuadores eléctricos</h2>
@@ -146,9 +146,9 @@ slides:
         <img src="../images/senalanalogica.png" alt="Actuador eléctrico" style="width: 100%; border-radius: 10px;"/>
       </div>
       </div>
-
-
-
+ 
+ 
+ 
        
  - title: 
    slide-data: |
