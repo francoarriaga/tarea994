@@ -17,17 +17,16 @@ slides:
        <li>GRADO: NOVENO SEMESTRE.</li>
      </ul>
 
- - title: ACTUADORES
+ 
+- title: ACTUADORES
    slide-data: |
-    <h2>¿QUÉ SON LOS ACTUADORES?</h2>
-    
-    |                                                                                         |                                    |
-    |-----------------------------------------------------------------------------------------|------------------------------------|
-    | <p style="font-size: 20px; text-align: left;">                                          | <img src="../images/aelectrico1.png" alt="Actuador Rotativo" style="width: 60%;"> |
-    | Los actuadores son dispositivos que convierten una señal de control (normalmente        |                                    |
-    | eléctrica, neumática o hidráulica) en un movimiento físico. Son esenciales en           |                                    |
-    | sistemas automáticos o controlados a distancia, ya que permiten ejecutar una            |                                    |
-    | acción mecánica basada en una señal de comando.                                         |                                    |
+     <h2>¿QUÉ SON LOS ACTUADORES?</h2>
+     <p style="font-size: 20px;"> 
+      Los actuadores son dispositivos que convierten una señal de control (normalmente eléctrica, neumática o hidráulica) en un        
+      movimiento físico. Son esenciales en sistemas automáticos o controlados a distancia, ya que permiten ejecutar una acción mecánica 
+      basada en una señal de comando.
+     </p>
+     <img src="../images/aelectrico1.png" alt="Actuador Rotativo" style="width: 60%; margin: auto;">
 
      
  - title: 
