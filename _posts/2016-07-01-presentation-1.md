@@ -105,15 +105,15 @@ slides:
  - title:
    background: "../images/fondoverde.jpg"
    slide-data: |
-       <h2 style="font-size: 40px;">Características de los actuadores electricos</h2>
-       <ul style="font-size: 20px;">
-       <li><strong>Precisión y control</strong>: Algunos modelos (como los servomotores y motores paso a paso) permiten un control 
+   <h2 style="font-size: 40px;">Características de los actuadores electricos</h2>
+   <ul style="font-size: 20px;">
+   <li><strong>Precisión y control</strong>: Algunos modelos (como los servomotores y motores paso a paso) permiten un control 
            preciso sobre la posición y velocidad.
-       </li>
-       <li><strong>Fuerza o par</strong>: Varia dependiendo del tamaño y tipo. Los actuadores rotativos se evalúan en términos de torque 
+   </li>
+   <li><strong>Fuerza o par</strong>: Varia dependiendo del tamaño y tipo. Los actuadores rotativos se evalúan en términos de torque 
              y los lineales en términos de fuerza de empuje.
-       </li>
-       <li><strong>Velocidad</strong>: Dependiendo del tipo de motor o actuador, algunos ofrecen velocidades muy altas (motores de 
+   </li>
+   <li><strong>Velocidad</strong>: Dependiendo del tipo de motor o actuador, algunos ofrecen velocidades muy altas (motores de 
                corriente continua) y otros más controladas (paso a paso).
        </li>
        <li><strong>Eficiencia</strong>: Suelen tener un consumo eficiente de energía, aunque depende de la aplicación y el control.
@@ -121,11 +121,11 @@ slides:
        <li><strong>Durabilidad</strong>: Son robustos y tienen una larga vida útil, con bajo mantenimiento.
        </li>
        </ul>
-
-- title:
-  background: "../images/fondoverde.jpg"
-  slide-data: |
-     <div style="display: flex; align-items: flex-start;">
+ 
+ - title:
+   background: "../images/fondoverde.jpg"
+   slide-data: |
+   <div style="display: flex; align-items: flex-start;">
       <div style="flex: 1;">
         <h2 style="font-size: 40px;">Modo de comunicación de los actuadores eléctricos</h2>
         <p style="font-size: 20px;">
@@ -142,10 +142,10 @@ slides:
           <li><strong>Control por pulsos</strong>: Motores paso a paso y servomotores se controlan mediante señales PWM (modulación por ancho de pulso) para ajustes finos.</li>
         </ul>
       </div>
-      <div style="flex: 0.4; text-align: right;">
-        <img src="../images/senalanalogica.png" alt="Actuador eléctrico" style="width: 100%; border-radius: 10px;"/>
-      </div>
-      </div>
+   <div style="flex: 0.4; text-align: right;">
+   <img src="../images/senalanalogica.png" alt="Actuador eléctrico" style="width: 100%; border-radius: 10px;"/>
+   </div>
+   </div>
  
  
  
