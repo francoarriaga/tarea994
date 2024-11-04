@@ -78,10 +78,6 @@ slides:
       </div>
    
      </div>
- 
-
-
-
 
  - title:
    background: "../images/fondoverde.jpg"
@@ -101,7 +97,11 @@ slides:
         sentido y la velocidad 
         del movimiento.
      </p>
-     
+     <!-- Contenedor para la imagen -->
+      <div style="flex: 0 0 300px; margin-left: 20px;">
+         <img src="../images/campomagnetico.png" alt="Imagen de actuador" style="width: 100%; border-radius: 8px;">
+      </div>
+      
  - title:
    background: "../images/fondoverde.jpg"
    slide-data: |
