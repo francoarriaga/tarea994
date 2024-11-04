@@ -189,6 +189,7 @@ slides:
        </ul>
        </li>
        </ul>
+       <img src="../images/actuadormecanico.jpg" alt="Actuador Mecanico" style="width: 300px; margin: auto;">
        
  - title: 
    slide-data: |
