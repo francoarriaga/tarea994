@@ -32,18 +32,17 @@ slides:
      ---
  - title:
    background: "../images/fondoverde.jpg" 
-   ---
+   slide-data: | 
+    <h2 style="font-size: 60px;"> Actuadores Eléctricos</h2>
+    <h3 style="font-size: 40px;">Tipos de Actuadores Eléctricos</h3>
    
-   <h2 style="font-size: 60px;"> Actuadores Eléctricos</h2>
-   <h3 style="font-size: 40px;">Tipos de Actuadores Eléctricos</h3>
+    <div style="display: flex; align-items: flex-start;">
    
-   <div style="display: flex; align-items: flex-start;">
-   
-      <!-- Contenedor para el contenido de la lista -->
-      <div style="flex: 1;">
-         <ul style="font-size: 20px;">
-            <li>
-               <strong>Actuadores rotativos</strong>: Convierte la energía eléctrica en un movimiento giratorio. Se utilizan en aplicaciones 
+    <!-- Contenedor para el contenido de la lista -->
+    <div style="flex: 1;">
+    <ul style="font-size: 20px;">
+    <li>
+        <strong>Actuadores rotativos</strong>: Convierte la energía eléctrica en un movimiento giratorio. Se utilizan en aplicaciones 
                como válvulas o mecanismos que requieren movimiento circular.
                <ul>
                   <li><em>Ejemplo</em>: Motores eléctricos (AC/DC).</li>
@@ -73,12 +72,12 @@ slides:
          </ul>
       </div>
    
-      <!-- Contenedor para la imagen -->
+     <!-- Contenedor para la imagen -->
       <div style="flex: 0 0 300px; margin-left: 20px;">
          <img src="../images/actuador.png" alt="Imagen de actuador" style="width: 100%; border-radius: 8px;">
       </div>
    
-   </div>
+     </div>
  
 
 
