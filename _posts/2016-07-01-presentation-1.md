@@ -78,7 +78,7 @@ slides:
          <img src="../images/actuador.png" alt="Imagen de actuador" style="width: 100%; border-radius: 8px;">
       </div>
    
-   </div>
+ </div>
  
 
 
