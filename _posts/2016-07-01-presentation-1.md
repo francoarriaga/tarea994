@@ -192,8 +192,8 @@ slides:
        <img src="../images/actuadormecanico.jpg" alt="Actuador Mecanico" style="width: 300px; margin: auto;">
        
  - title:
-    background: "../images/fondogris.jpg"
-    slide-data: |      
+   background: "../images/fondogris.jpg"
+   slide-data: |      
       
 
      
