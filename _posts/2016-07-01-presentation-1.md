@@ -288,7 +288,8 @@ slides:
       </div>
       </div>
       
- - title: 
+ - title:
+ - background: "../images/fondoarrugado.jpeg"
    slide-data: |
       <h2 style="font-size: 60px;"> Actuadores Hidráulicos</h2>
       <h2 style="font-size: 40px;">Tipos de los actuadores hidráulicos</h2>
