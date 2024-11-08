@@ -391,39 +391,39 @@ slides:
      </p>
      <table style="font-size: 20px; width: 100%; border-collapse: collapse;color:black">
      <tr>
-        <th style="text-align: left; padding: 8px; border: 1px solid #ddd;color:black">Función</th>
-        <th style="text-align: left; padding: 8px; border: 1px solid #ddd;color:black">Descripción</th>
+        <th style="text-align: left; padding: 8px;  ;color:black">Función</th>
+        <th style="text-align: left; padding: 8px; ;color:black">Descripción</th>
      </tr>
      <tr>
-     <td style="padding: 8px; border: 1px solid #ddd;color:black"><strong>Señales de posición</strong></td>
-     <td style="padding: 8px; border: 1px solid #ddd;color:black">Se usan sensores de posición como potenciómetros, encoders o transductores de desplazamiento lineal para monitorear 
+     <td style="padding: 8px;;color:black"><strong>Señales de posición</strong></td>
+     <td style="padding: 8px; ;color:black">Se usan sensores de posición como potenciómetros, encoders o transductores de desplazamiento lineal para monitorear 
                     la posición 
           del pistón en un cilindro.</td>
      </tr>
      <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;color:black"><strong>Sensores de presión</strong></td>
-        <td style="padding: 8px; border: 1px solid #ddd;color:black">Detectan la presión del fluido hidráulico para controlar la fuerza aplicada y ajustar el rendimiento del sistema.</td>
+        <td style="padding: 8px; ;color:black"><strong>Sensores de presión</strong></td>
+        <td style="padding: 8px; ;color:black">Detectan la presión del fluido hidráulico para controlar la fuerza aplicada y ajustar el rendimiento del sistema.</td>
      </tr>
      <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;color:black"><strong>Control de flujo</strong></td>
-        <td style="padding: 8px; border: 1px solid #ddd;color:black">Válvulas de control proporcionan ajustes precisos al flujo del fluido, regulando la velocidad y la fuerza del 
+        <td style="padding: 8px; ;color:black"><strong>Control de flujo</strong></td>
+        <td style="padding: 8px; ;color:black">Válvulas de control proporcionan ajustes precisos al flujo del fluido, regulando la velocidad y la fuerza del 
                 actuador.</td>
      </tr>
      <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;color:black"><strong>Protocolo CAN Bus</strong></td>
-        <td style="padding: 8px; border: 1px solid #ddd;color:black">En sistemas industriales más avanzados, los actuadores hidráulicos pueden estar conectados a una red CAN Bus 
+        <td style="padding: 8px; ;color:black"><strong>Protocolo CAN Bus</strong></td>
+        <td style="padding: 8px; ;color:black">En sistemas industriales más avanzados, los actuadores hidráulicos pueden estar conectados a una red CAN Bus 
               (Controller Area 
           Network), que permite la comunicación con un controlador o PLC (Controlador Lógico Programable).</td>
      </tr>
      <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;color:black"><strong>Sistemas de retroalimentación</strong></td>
-        <td style="padding: 8px; border: 1px solid #ddd;color:black">Algunos actuadores hidráulicos están equipados con sistemas de retroalimentación de bucle cerrado, donde la 
+        <td style="padding: 8px; ;color:black"><strong>Sistemas de retroalimentación</strong></td>
+        <td style="padding: 8px; ;color:black">Algunos actuadores hidráulicos están equipados con sistemas de retroalimentación de bucle cerrado, donde la 
                información sobre la 
             posición y presión del actuador se envía continuamente al controlador para ajustar su funcionamiento en tiempo real.</td>
       </tr>
       <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;color:black"><strong>Integración con sistemas electrónicos</strong></td>
-        <td style="padding: 8px; border: 1px solid #ddd;color:black">Los actuadores hidráulicos se combinan con sistemas electrónicos para proporcionar automatización avanzada. Esto 
+        <td style="padding: 8px; ;color:black"><strong>Integración con sistemas electrónicos</strong></td>
+        <td style="padding: 8px; ;color:black">Los actuadores hidráulicos se combinan con sistemas electrónicos para proporcionar automatización avanzada. Esto 
              incluye la 
           posibilidad de integrarlos en sistemas controlados por PLCs o SCADA, donde se puede monitorear y ajustar el funcionamiento del actuador remotamente.</td>
       </tr>
