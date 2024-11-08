@@ -225,13 +225,12 @@ slides:
 
 
      
- - title:
+ - title: Características de los actuadores mecánicos
    background: "../images/fondogris.jpg"
    slide-data: |
       <div style="display: flex; align-items: flex-start;">
       <!-- Texto a la izquierda -->
       <div style="width: 60%; padding-right: 20px;">
-        <h2 style="font-size: 40px; color: black;">Características de los actuadores mecánicos</h2>
         <ul style="font-size: 20px; color: black;">
           <li><strong>Simples y robustos</strong>: Tienen diseños mecánicos que son generalmente más simples y duraderos que los actuadores eléctricos o neumáticos.</li>
           <li><strong>Bajo mantenimiento</strong>: En muchas aplicaciones, requieren poco mantenimiento comparado con los actuadores hidráulicos o eléctricos, debido a la simplicidad de 
