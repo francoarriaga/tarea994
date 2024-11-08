@@ -228,24 +228,32 @@ slides:
  - title:
    background: "../images/fondogris.jpg"
    slide-data: |
-       <h2 style="font-size: 40px;color:black">Caracteristicas de los actuadores mecanicos</h2>
-       <ul style="font-size: 20px;color:black">
-       <li><strong>Simples y robustos</strong>: Tienen diseños mecánicos que son generalmente más simples y duraderos que los actuadores 
-            eléctricos o neumáticos.
-       </li>
-       <li><strong>Bajo mantenimiento</strong>: En muchas aplicaciones, requieren poco mantenimiento comparado con los actuadores 
-              hidráulicos o eléctricos, debido a la simplicidad de sus componentes.
-       </li>
-       <li><strong>Almacenamiento de energía</strong>: Actuadores como los resortes pueden almacenar energía y liberarla para generar 
-           movimiento en situaciones donde no hay suministro continuo de energía.
-       </li>
-       <li><strong>Precisión</strong>: Los actuadores mecánicos como los husillos de bolas ofrecen una alta precisión en movimientos 
-            lineales y en máquinas de control numérico (CNC).
-       </li>
-       <li><strong>Capacidad de carga</strong>: Algunos actuadores mecánicos, como los engranajes y husillos, pueden soportar cargas 
-          pesadas con mayor eficiencia que otros tipos de actuadores.
-       </li>
-       </ul>
+      <div style="display: flex; align-items: flex-start;">
+      <!-- Texto a la izquierda -->
+      <div style="width: 60%; padding-right: 20px;">
+        <h2 style="font-size: 40px; color: black;">Características de los actuadores mecánicos</h2>
+        <ul style="font-size: 20px; color: black;">
+          <li><strong>Simples y robustos</strong>: Tienen diseños mecánicos que son generalmente más simples y duraderos que los actuadores eléctricos o neumáticos.</li>
+          <li><strong>Bajo mantenimiento</strong>: En muchas aplicaciones, requieren poco mantenimiento comparado con los actuadores hidráulicos o eléctricos, debido a la simplicidad de 
+        sus componentes.</li>
+          <li><strong>Almacenamiento de energía</strong>: Actuadores como los resortes pueden almacenar energía y liberarla para generar movimiento en situaciones donde no hay suministro 
+           continuo de energía.</li>
+          <li><strong>Precisión</strong>: Los actuadores mecánicos como los husillos de bolas ofrecen una alta precisión en movimientos lineales y en máquinas de control numérico (CNC). 
+      </li>
+          <li><strong>Capacidad de carga</strong>: Algunos actuadores mecánicos, como los engranajes y husillos, pueden soportar cargas pesadas con mayor eficiencia que otros tipos de 
+        actuadores.</li>
+        </ul>
+      </div>
+      
+      <!-- Imágenes a la derecha -->
+      <div style="width: 40%; display: flex; flex-direction: column; gap: 10px;">
+        <img src="ruta_de_la_imagen1.jpg" alt="Actuador Mecánico 1" style="width: 100%; height: auto;">
+        <img src="ruta_de_la_imagen2.jpg" alt="Actuador Mecánico 2" style="width: 100%; height: auto;">
+      </div>
+      </div>
+
+
+       
  - title:
    background: "../images/fondogris.jpg"
    slide-data: |
