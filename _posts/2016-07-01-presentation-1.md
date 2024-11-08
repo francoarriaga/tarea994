@@ -228,7 +228,7 @@ slides:
  - title: 
    background: "../images/fondogris.jpg"
    slide-data: |
-   <h2> Caracteristicas de los actuadores mecanicos</h2>
+      <h2> Caracteristicas de los actuadores mecanicos</h2>
       <div style="display: flex; align-items: flex-start;">
       <!-- Texto a la izquierda -->
       <div style="width: 60%; padding-right: 20px;">
