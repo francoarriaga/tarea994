@@ -284,8 +284,7 @@ slides:
       </div>
       <!-- Imágenes a la derecha -->
       <div style="width: 40%; display: flex; flex-direction: column; gap: 10px;">
-        <img src="../images/manto.png" alt="Actuador Mecánico 1" style="width: 200px;">
-        <img src="../images/precision.png" alt="Actuador Mecánico 2" style="width: 200px; ">
+        <img src="../images/aelectrico2.png" alt="Actuador Mecánico 2" style="width: 200px; ">
       </div>
       </div>
       
