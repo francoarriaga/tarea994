@@ -4,9 +4,11 @@ layout: post
 permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: INSTITUTO TECNOLOGICO DE CANCUN 
+ - title: 
+   background: "../images/fondomorado.png" 
    slide-data: |
-     <ul style="font-size: 30px;">
+     <h1 style="color:white;">INSTITUTO TECNOLOGICO DE CANCUN</h1>
+     <ul style="font-size: 30px;  color: white">
        <li>NOMBRE DEL ALUMNO: ARRIAGA PECH FRANCO MARTHELY.</li>
        <li>NOMBRE DEL DOCENTE: DR. ISMAEL JIMÉNEZ SÁNCHEZ.</li> 
        <li>NOMBRE DE LA MATERIA: SISTEMAS PROGRAMABLES.</li>
