@@ -356,64 +356,64 @@ slides:
  - title:
    background: "../images/fondoarrugado.jpeg" 
    slide-data: |
-       <h2 style="font-size: 40px;color:black">Caracteristicas de los actuadores hidraulicos</h2>
-       <ul style="font-size: 20px;color:black">
-       <li><strong>Alta fuerza y torque</strong>: Los actuadores hidráulicos pueden generar mucha más fuerza y torque que los actuadores 
+     <h2 style="font-size: 40px;color:black">Caracteristicas de los actuadores hidraulicos</h2>
+     <ul style="font-size: 20px;color:black">
+     <li><strong>Alta fuerza y torque</strong>: Los actuadores hidráulicos pueden generar mucha más fuerza y torque que los actuadores 
            eléctricos o neumáticos del mismo tamaño.
-       </li>
-       <li><strong>Control preciso de velocidad y fuerza</strong>: Mediante válvulas reguladoras y otros controles, es posible ajustar 
+     </li>
+     <li><strong>Control preciso de velocidad y fuerza</strong>: Mediante válvulas reguladoras y otros controles, es posible ajustar 
             con precisión la velocidad y la fuerza que ejerce el actuador.
-       </li>
-       <li><strong>Capacidad de trabajar con grandes cargas</strong>: Los sistemas hidráulicos son ideales para mover o levantar cargas 
+     </li>
+     <li><strong>Capacidad de trabajar con grandes cargas</strong>: Los sistemas hidráulicos son ideales para mover o levantar cargas 
             pesadas. Por ejemplo, se utilizan en maquinaria industrial, equipos de construcción y aeronaves.
-       </li>
-       <li><strong>Compactos y potentes</strong>: Proporcionan una gran cantidad de fuerza en un espacio relativamente pequeño, lo que 
+     </li>
+     <li><strong>Compactos y potentes</strong>: Proporcionan una gran cantidad de fuerza en un espacio relativamente pequeño, lo que 
            los hace útiles en espacios reducidos.
-       </li>
-       <li><strong>Robustos</strong>: Tienen una buena resistencia al desgaste y una larga vida útil, incluso en condiciones difíciles o 
+     </li>
+     <li><strong>Robustos</strong>: Tienen una buena resistencia al desgaste y una larga vida útil, incluso en condiciones difíciles o 
          entornos de trabajo extremos.
-       </li>
-       <li><strong>Requieren mantenimiento regular</strong>: Debido al uso de fluidos, es importante mantener los sistemas hidráulicos 
-           libres de fugas y contaminantes, además de controlar la temperatura del fluido.
-       </li>
-       </ul>
-
+     </li>
+     <li><strong>Requieren mantenimiento regular</strong>: Debido al uso de fluidos, es importante mantener los sistemas hidráulicos 
+          libres de fugas y contaminantes, además de controlar la temperatura del fluido.
+     </li>
+     </ul>
+ 
        
  - title:
    background: "../images/fondoarrugado.jpeg" 
    slide-data: |
-       <h2 style="font-size: 40px;color:black">Modo de comunicación de los actuadores hidraulicos</h2>
-       <p style="font-size: 20px;color:black"> Aunque los actuadores hidráulicos en sí mismos no tienen capacidad de comunicación, se utilizan 
+     <h2 style="font-size: 40px;color:black">Modo de comunicación de los actuadores hidraulicos</h2>
+     <p style="font-size: 20px;color:black"> Aunque los actuadores hidráulicos en sí mismos no tienen capacidad de comunicación, se utilizan 
             junto con sistemas de control 
              que permiten monitorear y ajustar su funcionamiento. Los modos más comunes son:
-       </p>
-      <table style="font-size: 20px; width: 100%; border-collapse: collapse;color:black">
-      <tr>
+     </p>
+     <table style="font-size: 20px; width: 100%; border-collapse: collapse;color:black">
+     <tr>
         <th style="text-align: left; padding: 8px; border: 1px solid #ddd;color:black">Función</th>
         <th style="text-align: left; padding: 8px; border: 1px solid #ddd;color:black">Descripción</th>
-      </tr>
-      <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;color:black"><strong>Señales de posición</strong></td>
-        <td style="padding: 8px; border: 1px solid #ddd;color:black">Se usan sensores de posición como potenciómetros, encoders o transductores de desplazamiento lineal para monitorear 
+     </tr>
+     <tr>
+     <td style="padding: 8px; border: 1px solid #ddd;color:black"><strong>Señales de posición</strong></td>
+     <td style="padding: 8px; border: 1px solid #ddd;color:black">Se usan sensores de posición como potenciómetros, encoders o transductores de desplazamiento lineal para monitorear 
                     la posición 
           del pistón en un cilindro.</td>
-      </tr>
-      <tr>
+     </tr>
+     <tr>
         <td style="padding: 8px; border: 1px solid #ddd;color:black"><strong>Sensores de presión</strong></td>
         <td style="padding: 8px; border: 1px solid #ddd;color:black">Detectan la presión del fluido hidráulico para controlar la fuerza aplicada y ajustar el rendimiento del sistema.</td>
-      </tr>
-      <tr>
+     </tr>
+     <tr>
         <td style="padding: 8px; border: 1px solid #ddd;color:black"><strong>Control de flujo</strong></td>
         <td style="padding: 8px; border: 1px solid #ddd;color:black">Válvulas de control proporcionan ajustes precisos al flujo del fluido, regulando la velocidad y la fuerza del 
                 actuador.</td>
-      </tr>
-      <tr>
+     </tr>
+     <tr>
         <td style="padding: 8px; border: 1px solid #ddd;color:black"><strong>Protocolo CAN Bus</strong></td>
         <td style="padding: 8px; border: 1px solid #ddd;color:black">En sistemas industriales más avanzados, los actuadores hidráulicos pueden estar conectados a una red CAN Bus 
               (Controller Area 
           Network), que permite la comunicación con un controlador o PLC (Controlador Lógico Programable).</td>
-      </tr>
-      <tr>
+     </tr>
+     <tr>
         <td style="padding: 8px; border: 1px solid #ddd;color:black"><strong>Sistemas de retroalimentación</strong></td>
         <td style="padding: 8px; border: 1px solid #ddd;color:black">Algunos actuadores hidráulicos están equipados con sistemas de retroalimentación de bucle cerrado, donde la 
                información sobre la 
@@ -425,7 +425,7 @@ slides:
              incluye la 
           posibilidad de integrarlos en sistemas controlados por PLCs o SCADA, donde se puede monitorear y ajustar el funcionamiento del actuador remotamente.</td>
       </tr>
-    </table>
+     </table>
 
 
 ---
