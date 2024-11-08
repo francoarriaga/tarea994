@@ -291,12 +291,15 @@ slides:
  - title:
    background: "../images/fondoarrugado.jpeg"
    slide-data: |
-      <h2 style="font-size: 60px;"> Actuadores Hidráulicos</h2>
-      <h2 style="font-size: 40px;">Tipos de los actuadores hidráulicos</h2>
-      <p style="font-size: 20px;">Los actuadores hidráulicos utilizan un fluido bajo presión para generar movimiento mecánico. Los 
+      <h2 style="font-size: 60px;color:black"> Actuadores Hidráulicos</h2>
+      <h2 style="font-size: 40px;color:black">Tipos de los actuadores hidráulicos</h2>
+      <p style="font-size: 20px;color:black">Los actuadores hidráulicos utilizan un fluido bajo presión para generar movimiento mecánico. Los 
           principales tipos son:
       </p>
-      <ul style="font-size: 20px;">
+       <div style="display: flex; align-items: flex-start;">
+      <!-- Texto a la izquierda -->
+      <div style="width: 60%; padding-right: 20px;">
+      <ul style="font-size: 20px;color:black">
       <li><strong>Cilindros hidráulicos (actuadores lineales)</strong>: Convierte la energía hidráulica en movimiento lineal. Se 
             utilizan en aplicaciones donde se requiere empujar o tirar cargas pesadas.
       <ul>
@@ -312,6 +315,14 @@ slides:
       </ul>
       </li>
       </ul>
+      </div>
+       <!-- Imágenes a la derecha -->
+      <div style="width: 40%; display: flex; flex-direction: column; gap: 10px;">
+        <img src="../images/ahidra.png" alt="Actuador Mecánico 2" style="width: 200px; ">
+       <img src="../images/ahidra2.png" alt="Actuador Mecánico 2" style="width: 200px; ">
+      </div>
+      </div>
+      
  - title: 
    slide-data: |
       <h2 style="font-size: 40px;">Funcionamiento de los actuadores hidraulicos</h2>
