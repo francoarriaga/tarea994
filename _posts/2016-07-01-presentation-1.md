@@ -194,7 +194,15 @@ slides:
  - title:
    background: "../images/fondogris.jpg"
    slide-data: |      
-      
+      | Concepto                | Descripción                                                                                                                                                                          |
+      |-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------- 
+      -----------------------------|
+      | **Compresión o tensión** | En actuadores basados en resortes, la energía se almacena mediante la compresión o extensión, y luego se libera para realizar un trabajo.                                           |
+      | **Rotación o deslizamiento** | En sistemas de engranajes o levas, un eje rotativo genera un movimiento lineal o controlado, transmitiendo fuerza a otras partes del sistema.                                  |
+      | **Desplazamiento lineal** | En husillos de bolas, el movimiento giratorio del eje se convierte en un desplazamiento lineal con gran precisión.                                                                 |
+      | **Nota adicional**       | El sistema mecánico actúa de manera pasiva o reactiva a fuerzas físicas que se le aplican, y algunos pueden almacenar energía (como los resortes) para 
+       liberarla en el momento adecuado. |
+
 
      
  - title:
