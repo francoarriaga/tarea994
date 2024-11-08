@@ -199,16 +199,25 @@ slides:
           través de sistemas mecánicos. 
           Esto puede implicar:
      </p>
-     <ul style="font-size: 20px;color:black">
-     <li><strong>Compresión o tensión</strong>: En actuadores basados en resortes, la energía se almacena mediante la compresión o 
-        extensión, y luego se libera para realizar un trabajo.
-     </li>
-     <li><strong>Rotación o deslizamiento</strong>: En sistemas de engranajes o levas, un eje rotativo genera un movimiento lineal o 
-         controlado, transmitiendo fuerza a otras partes del sistema.</li>
-     <li><strong>Desplazamiento lineal</strong>: En husillos de bolas, el movimiento giratorio del eje se convierte en un desplazamiento 
-        lineal con gran precisión.
-     </li>
-     </ul>
+     <table style="font-size: 20px; color: black; width: 100%;">
+     <tr>
+       <th>Tipo de Movimiento</th>
+       <th>Descripción</th>
+     </tr>
+     <tr>
+       <td><strong>Compresión o tensión</strong></td>
+       <td>En actuadores basados en resortes, la energía se almacena mediante la compresión o extensión, y luego se libera para realizar un trabajo.</td>
+     </tr>
+     <tr>
+       <td><strong>Rotación o deslizamiento</strong></td>
+       <td>En sistemas de engranajes o levas, un eje rotativo genera un movimiento lineal o controlado, transmitiendo fuerza a otras partes del sistema.</td>
+     </tr>
+     <tr>
+       <td><strong>Desplazamiento lineal</strong></td>
+       <td>En husillos de bolas, el movimiento giratorio del eje se convierte en un desplazamiento lineal con gran precisión.</td>
+     </tr>
+     </table>
+
      <p style="font-size: 20px;color:black"> El sistema mecánico actúa de manera pasiva o reactiva a fuerzas físicas que se le aplican, y algunos 
         pueden almacenar energía (como los resortes) para liberarla en el momento adecuado.
      </p>
