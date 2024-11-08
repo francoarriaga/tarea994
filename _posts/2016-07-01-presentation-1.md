@@ -247,8 +247,8 @@ slides:
       
       <!-- Imágenes a la derecha -->
       <div style="width: 40%; display: flex; flex-direction: column; gap: 10px;">
-        <img src="ruta_de_la_imagen1.jpg" alt="Actuador Mecánico 1" style="width: 100%; height: auto;">
-        <img src="ruta_de_la_imagen2.jpg" alt="Actuador Mecánico 2" style="width: 100%; height: auto;">
+        <img src="../images/manto.png" alt="Actuador Mecánico 1" style="width: 200px;">
+        <img src="../images/precision.png" alt="Actuador Mecánico 2" style="width: 200px; ">
       </div>
       </div>
 
