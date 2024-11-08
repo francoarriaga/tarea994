@@ -263,6 +263,10 @@ slides:
            que son dispositivos pasivos. Sin embargo, pueden ser integrados en sistemas de control a través de sensores o controles 
             adicionales. Algunos modos de integración son:
       </p>
+      <div style="display: flex; align-items: flex-start;">
+      <!-- Texto a la izquierda -->
+      <div style="width: 60%; padding-right: 20px;">
+       
       <ul style="font-size: 20px;color:black">
       <li><strong>Señales de posición</strong>: Sensores de posición (como encoders o potenciómetros) se usan para medir la posición del 
             actuador y enviar datos al sistema de control.
@@ -277,6 +281,13 @@ slides:
             o pedales.
       </li>
       </ul>
+      <!-- Imágenes a la derecha -->
+      <div style="width: 40%; display: flex; flex-direction: column; gap: 10px;">
+        <img src="../images/manto.png" alt="Actuador Mecánico 1" style="width: 200px;">
+        <img src="../images/precision.png" alt="Actuador Mecánico 2" style="width: 200px; ">
+      </div>
+      </div>
+      
  - title: 
    slide-data: |
       <h2 style="font-size: 60px;"> Actuadores Hidráulicos</h2>
