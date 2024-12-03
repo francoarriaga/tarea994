@@ -7,7 +7,7 @@ slides:
  - title: 
    background: "../images/fondomorado.png" 
    slide-data: |
-     <h1 style="color:white;">INSTITUTO TECNOLOGICO DE CANCUN</h1>
+     <h2 style="color:white;">INSTITUTO TECNOLOGICO DE CANCUN</h2>
      <ul style="font-size: 30px;  color: white">
        <li>NOMBRE DEL ALUMNO: ARRIAGA PECH FRANCO MARTHELY.</li>
        <li>NOMBRE DEL DOCENTE: DR. ISMAEL JIMÉNEZ SÁNCHEZ.</li> 
